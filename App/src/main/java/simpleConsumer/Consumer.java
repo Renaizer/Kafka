@@ -1,3 +1,6 @@
+//To load,start and run the Landoop Kafka cluster cluster use command  
+//docker run -e ADV_HOST=127.0.0.1 -e EULA="https://dl.lenses.io/d/?id=62e83071-ef7f-46b5-8874-XXXXXXXXXXX" --rm -p  3030:3030 -p 9092:9092 lensesio/box
+
 package simpleConsumer;
 
 import java.time.Duration;
