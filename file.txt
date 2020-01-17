@@ -1,0 +1,1 @@
+This is sample file created from local git repository to demonstrate Git that makes life easier.
